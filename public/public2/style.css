@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid black;
+  padding: 15px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  border: 2px solid black;
+}
+
+.titulo {
+  font-size: 20px;
+}
+
+.menu {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+/* MAIN */
+.main {
+  display: flex;
+  margin: 20px;
+  gap: 20px;
+}
+
+/* CONTEÚDO */
+.conteudo {
+  flex: 2;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.item img {
+  margin-right: 10px;
+}
+
+/* SIDEBAR */
+.sidebar {
+  flex: 1;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.pesquisa input {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+/* FOOTER */
+.footer {
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
+.header { 
+    background-color: yellowgreen;
+}
+h {background-color: blue;}
