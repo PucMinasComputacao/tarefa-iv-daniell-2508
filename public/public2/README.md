@@ -59,8 +59,5 @@ Utilizando:
 
 ---
 
-## 🚀 Como executar o projeto
-1. Clonar o repositório:
-```bash
-git clone https://github.com/PucMinasComputacao/tarefa-iv-daniell-2508.git
-```
+![Desktop](public/public2/img/desktop.png)
+![Mobile](public/public2/img/mobile.png)
