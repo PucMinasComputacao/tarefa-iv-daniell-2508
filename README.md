@@ -52,10 +52,10 @@ Utilizando:
 ## 📸 Prints do projeto
 
 ### 💻 Versão Desktop
-![Desktop](img/desktop.png)
+
 
 ### 📱 Versão Mobile
-![Mobile](img/mobile.png)
+
 
 ---
 
