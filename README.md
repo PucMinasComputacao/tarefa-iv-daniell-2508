@@ -62,5 +62,11 @@ Utilizando:
 ## 🚀 Como executar o projeto
 1. Clonar o repositório:
 ```bash
-![Desktop](./img/desktop.png)
-![Mobile](./img/mobile.png)
+
+## 📸 Prints do projeto
+
+### 💻 Versão Desktop
+![Desktop](img/desktop.png)
+
+### 📱 Versão Mobile
+![Mobile](img/mobile.png)
