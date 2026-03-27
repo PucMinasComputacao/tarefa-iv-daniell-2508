@@ -63,10 +63,5 @@ Utilizando:
 1. Clonar o repositório:
 ```bash
 
-## 📸 Prints do projeto
-
-### 💻 Versão Desktop
 ![Desktop](img/desktop.png)
-
-### 📱 Versão Mobile
 ![Mobile](img/mobile.png)
