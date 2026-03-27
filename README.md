@@ -62,4 +62,5 @@ Utilizando:
 ## 🚀 Como executar o projeto
 1. Clonar o repositório:
 ```bash
-git https://github.com/PucMinasComputacao/tarefa-iv-daniell-2508.git
+git clone https://github.com/PucMinasComputacao/tarefa-iv-daniell-2508.git
+```
