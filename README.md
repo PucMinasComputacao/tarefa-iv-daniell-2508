@@ -52,16 +52,14 @@ Utilizando:
 ## 📸 Prints do projeto
 
 ### 💻 Versão Desktop
-![Desktop](./img/desktop.png)
+![Desktop](img/desktop.png)
 
 ### 📱 Versão Mobile
-![Mobile](./img/mobile.png)
+![Mobile](img/mobile.png)
 
 ---
 
 ## 🚀 Como executar o projeto
 1. Clonar o repositório:
 ```bash
-
-![Desktop](img/desktop.png)
-![Mobile](img/mobile.png)
+git https://github.com/PucMinasComputacao/tarefa-iv-daniell-2508.git
